@@ -1,0 +1,15 @@
+{
+    "name": "pablo/github-assets-downloader",
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "ext-json": "*"
+    },
+    "authors": [
+        {
+            "name": "pjc89",
+            "email": "pabloc@planetsite.it"
+        }
+    ]
+}
